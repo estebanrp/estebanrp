@@ -1,8 +1,7 @@
 <h1 align="center"><b>Hi , I'm Esteban Planas</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## About me
-I am an information systems student.
----
+<h1>I am an information systems student.</h1>
+
 The need for a constantly expanding market for their products haunts peoples all over the world. They must nest everywhere, settle everywhere, establish connections everywhere.
 
 ## My Skills Include

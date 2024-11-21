@@ -11,7 +11,7 @@ The need for a constantly expanding market for their products haunts peoples all
 
 ## Check out my Social Media
 
-<div style="display: inline-block">
+<div class="link">
 <a href="https://www.linkedin.com/in/esteban-planas-2104b22b2/" target="blank"><img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     alt="adam pithewan" height="30" width="40" /></a>
@@ -20,3 +20,12 @@ The need for a constantly expanding market for their products haunts peoples all
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
     alt="adampithewan" height="30" width="40" /></a>
 </div>
+
+<style>
+  .link {
+    display: inline-block;
+    margin-right: 10px; /* Espaciado entre los anclas */
+    text-decoration: none; /* Opcional: Elimina el subrayado */
+    color: blue; /* Estilo del texto */
+  }
+</style>

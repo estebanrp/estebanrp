@@ -7,7 +7,7 @@ I am an information systems student.
 ## My Skills Include
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=git,docker,c,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,redis,aws,docker,c,linux,bash)](https://skillicons.dev)
 
 ## Check out my Social Media
 

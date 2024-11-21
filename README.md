@@ -1,8 +1,9 @@
 <h1 align="center"><b>Hi , I'm Esteban Planas</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## About me
-
 I am an information systems student.
+---
+The need for a constantly expanding market for their products haunts peoples all over the world. They must nest everywhere, settle everywhere, establish connections everywhere.
 
 ## My Skills Include
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express)](https://skillicons.dev)
@@ -11,7 +12,7 @@ I am an information systems student.
 
 ## Check out my Social Media
 
-<div style="display: in-line">
+<div style="display: inline-block">
 <a href="https://www.linkedin.com/in/esteban-planas-2104b22b2/" target="blank"><img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     alt="adam pithewan" height="30" width="40" /></a>

@@ -12,7 +12,8 @@ I am an information systems student.
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 #
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,c,linux,bash)](https://skillicons.dev)
 
 ## Check out my Social Media
 
